@@ -1,0 +1,39 @@
+{
+  "name": "Akuntan Xyz",
+  "short_name": "Akuntan Xyz",
+  "scope": "URL HOMEPAGE",
+  "start_url": "URL HOMEPAGE",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#2B0C93",
+  "description": "DESKRIPSI BLOG ANDA",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-hqDF4RSfsLc/YQTOrH4uG2I/AAAAAAAAB3I/nNSqgsi1y1IWxOVY4p3sAM6QAyHY1VCygCLcBGAsYHQ/s48/AK%2Bxyz%2Bicon.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-hqDF4RSfsLc/YQTOrH4uG2I/AAAAAAAAB3I/nNSqgsi1y1IWxOVY4p3sAM6QAyHY1VCygCLcBGAsYHQ/s72/AK%2Bxyz%2Bicon.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-hqDF4RSfsLc/YQTOrH4uG2I/AAAAAAAAB3I/nNSqgsi1y1IWxOVY4p3sAM6QAyHY1VCygCLcBGAsYHQ/s96/AK%2Bxyz%2Bicon.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-hqDF4RSfsLc/YQTOrH4uG2I/AAAAAAAAB3I/nNSqgsi1y1IWxOVY4p3sAM6QAyHY1VCygCLcBGAsYHQ/s144/AK%2Bxyz%2Bicon.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-hqDF4RSfsLc/YQTOrH4uG2I/AAAAAAAAB3I/nNSqgsi1y1IWxOVY4p3sAM6QAyHY1VCygCLcBGAsYHQ/s168/AK%2Bxyz%2Bicon.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-hqDF4RSfsLc/YQTOrH4uG2I/AAAAAAAAB3I/nNSqgsi1y1IWxOVY4p3sAM6QAyHY1VCygCLcBGAsYHQ/s192/AK%2Bxyz%2Bicon.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-hqDF4RSfsLc/YQTOrH4uG2I/AAAAAAAAB3I/nNSqgsi1y1IWxOVY4p3sAM6QAyHY1VCygCLcBGAsYHQ/s512/AK%2Bxyz%2Bicon.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
