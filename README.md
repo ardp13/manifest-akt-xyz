@@ -1,0 +1,1 @@
+# manifest-akt-xyz
